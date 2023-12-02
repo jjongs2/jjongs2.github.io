@@ -5,8 +5,8 @@ layout: page
 
 {% include lang.html %}
 
-{% assign df_strftime_m = site.data.locales[lang].df.archives.strftime | default: '/ %m' %}
-{% assign df_dayjs_m = site.data.locales[lang].df.archives.dayjs | default: '/ MM' %}
+{% assign df_strftime_m = site.data.locales[lang].df.archives.strftime_m | default: '/ %m' %}
+{% assign df_dayjs_m = site.data.locales[lang].df.archives.dayjs_m | default: '/ MM' %}
 
 <div id="archives" class="pl-xl-3">
   {% for post in site.posts %}
