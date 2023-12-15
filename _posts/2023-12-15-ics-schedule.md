@@ -7,7 +7,7 @@ categories: [컴퓨터 과학, 컴퓨터 구조]
 > Carnegie Mellon University, School of Computer Science,  
 > [Introduction to Computer Systems (ICS)](https://www.cs.cmu.edu/afs/cs/academic/class/15213-s18/www/index.html)
 >
-> [Videos](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22&view=0&sortColumn=1&sortAscending=true) \| [Assignments](http://csapp.cs.cmu.edu/3e/labs.html)
+> [Videos](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22&view=0&sortColumn=1&sortAscending=true) \| [Assignments](https://csapp.cs.cmu.edu/3e/labs.html)
 
 <br>
 
