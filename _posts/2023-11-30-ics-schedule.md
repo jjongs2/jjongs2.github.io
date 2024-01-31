@@ -1,6 +1,6 @@
 ---
 title: Schedule
-date: 2023-12-15 08:25:49 +0900
+date: 2023-11-30 08:25:49 +0900
 categories: [컴퓨터 과학, 컴퓨터 구조]
 ---
 
@@ -13,7 +13,7 @@ categories: [컴퓨터 과학, 컴퓨터 구조]
 
 |     Date      | Content                                                                       |
 | :-----------: | :---------------------------------------------------------------------------- |
-| 23-12-15 (금) | [Lecture 01: Course Overview]({{ site.url }}/posts/ics-lecture-01/)           |
+| 23-12-07 (목) | [Lecture 01: Course Overview]({{ site.url }}/posts/ics-lecture-01/)           |
 | 23-12-15 (금) | [Lecture 02: Bits, Bytes, and Integers]({{ site.url }}/posts/ics-lecture-02/) |
 |               | Lecture 03: Bits, Bytes, and Integers (cont.)                                 |
 |               | Lecture 04: Floating Point                                                    |
