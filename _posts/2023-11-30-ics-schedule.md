@@ -16,7 +16,7 @@ categories: [컴퓨터 과학, 컴퓨터 구조]
 | 23-12-07 (목) | [Lecture 01: Course Overview]({{ site.url }}/posts/ics-lecture-01/)                   |
 | 23-12-15 (금) | [Lecture 02: Bits, Bytes, and Integers]({{ site.url }}/posts/ics-lecture-02/)         |
 | 23-12-20 (수) | [Lecture 03: Bits, Bytes, and Integers (cont.)]({{ site.url }}/posts/ics-lecture-03/) |
-|               | Lecture 04: Floating Point                                                            |
+| 24-01-05 (금) | [Lecture 04: Floating Point]({{ site.url }}/posts/ics-lecture-04/)                    |
 |               | Lab 1: Data Lab                                                                       |
 |               | Lecture 05: Machine-Level Programming I: Basics                                       |
 |               | Lecture 06: Machine-Level Programming II: Control                                     |
