@@ -25,10 +25,8 @@ layout: page
 
     <li>
       {% assign ts = post.date | date: '%s' %}
-      <span class="date month text-muted" data-ts="{{ ts }}" data-df="{{ df_dayjs_m }}">
-        {{ post.date | date: df_strftime_m }}
-      </span>
-      <span class="date day ms-1" data-ts="{{ ts }}" data-df="{{ df_dayjs_d }}">{{ post.date | date: df_strftime_d }}</span>
+      <span class="date" data-ts="{{ ts }}" data-df="{{ df_dayjs_m }}">{{ post.date | date: df_strftime_m }}</span>
+      <span class="date" data-ts="{{ ts }}" data-df="{{ df_dayjs_d }}">{{ post.date | date: df_strftime_d }}</span>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </li>
 

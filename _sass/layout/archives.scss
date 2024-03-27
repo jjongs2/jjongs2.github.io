@@ -93,24 +93,16 @@
     display: inline-block;
     position: relative;
     right: 0.5rem;
-
-    &.month {
-      width: 1.4rem;
-      text-align: center;
-      font-size: 77%;
-    }
-
-    &.day {
-      font-size: 74%;
-      font-family: Lato, sans-serif;
-    }
+    width: 1.8rem;
+    text-align: right;
+    font-family: 'Pretendard';
+    font-size: 77%;
   }
 
   a {
     /* post title in Archvies */
     margin-left: 2.5rem;
     position: relative;
-    top: 0.1rem;
 
     &:hover {
       border-bottom: none;
