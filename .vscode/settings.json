@@ -4,19 +4,19 @@
   "editor.formatOnSave": true,
   "prettier.trailingComma": "none",
   // Shopify Liquid
-  "files.associations": {
-    "*.html": "liquid"
-  },
-  "[markdown]": {
-    "editor.defaultFormatter": "yzhang.markdown-all-in-one"
-  },
+  // "files.associations": {
+  //   "*.html": "liquid"
+  // },
+  // "[markdown]": {
+  //   "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+  // },
   // Formatter
-  "[html][liquid]": {
-    "editor.defaultFormatter": "Shopify.theme-check-vscode"
-  },
-  "[shellscript]": {
-    "editor.defaultFormatter": "foxundermoon.shell-format"
-  },
+  // "[html][liquid]": {
+  //   "editor.defaultFormatter": "Shopify.theme-check-vscode"
+  // },
+  // "[shellscript]": {
+  //   "editor.defaultFormatter": "foxundermoon.shell-format"
+  // },
   // Disable vscode built-in stylelint
   "css.validate": false,
   "scss.validate": false,
