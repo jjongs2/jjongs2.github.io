@@ -22,7 +22,7 @@ categories: [컴퓨터 과학, 컴퓨터 구조]
 | 24-01-19 (금) | [Lecture 06: Machine-Level Programming II: Control]({{ site.url }}/posts/ics-lecture-06/)     |
 | 24-01-26 (금) | Lab 2: Bomb Lab                                                                               |
 | 24-01-27 (토) | [Lecture 07: Machine-Level Programming III: Procedures]({{ site.url }}/posts/ics-lecture-07/) |
-|               | Lecture 08: Machine-Level Programming IV: Data                                                |
+| 24-02-02 (금) | [Lecture 08: Machine-Level Programming IV: Data]({{ site.url }}/posts/ics-lecture-08/)        |
 |               | Lab 3: Attack Lab                                                                             |
 |               | Lecture 09: Machine-Level Programming V: Advanced Topics                                      |
 |               | Lecture 10: Program Optimization                                                              |
