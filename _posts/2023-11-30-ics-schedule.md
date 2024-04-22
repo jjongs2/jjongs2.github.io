@@ -25,7 +25,7 @@ categories: [컴퓨터 과학, 컴퓨터 구조]
 | 24-02-02 (금) | [Lecture 08: Machine-Level Programming IV: Data]({{ site.url }}/posts/ics-lecture-08/)           |
 | 24-02-07 (수) | Lab 3: Attack Lab                                                                                |
 | 24-02-08 (목) | [Lecture 09: Machine-Level Programming V: Advanced Topics]({{ site.url }}/posts/ics-lecture-09/) |
-|               | Lecture 10: Program Optimization                                                                 |
+| 24-02-15 (목) | [Lecture 10: Program Optimization]({{ site.url }}/posts/ics-lecture-10/)                         |
 |               | Lecture 11: The Memory Hierarchy                                                                 |
 |               | Lecture 12: Cache Memories                                                                       |
 |               | Lab 4: Cache Lab                                                                                 |
