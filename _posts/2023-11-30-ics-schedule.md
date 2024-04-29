@@ -2,6 +2,7 @@
 title: Schedule
 date: 2023-11-30 08:25:49 +0900
 categories: [컴퓨터 과학, 컴퓨터 구조]
+tags: [cs-app]
 ---
 
 > Carnegie Mellon University, School of Computer Science,  
