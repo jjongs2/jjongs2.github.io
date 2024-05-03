@@ -12,39 +12,39 @@ tags: [cs-app]
 
 <br>
 
-|     Date      | Content                                                                                          |
-| :-----------: | :----------------------------------------------------------------------------------------------- |
-| 23-12-07 (목) | [Lecture 01: Course Overview]({{ site.url }}/posts/ics-lecture-01/)                              |
-| 23-12-15 (금) | [Lecture 02: Bits, Bytes, and Integers]({{ site.url }}/posts/ics-lecture-02/)                    |
-| 23-12-20 (수) | [Lecture 03: Bits, Bytes, and Integers (cont.)]({{ site.url }}/posts/ics-lecture-03/)            |
-| 24-01-05 (금) | [Lecture 04: Floating Point]({{ site.url }}/posts/ics-lecture-04/)                               |
-| 24-01-10 (수) | Lab 1: Data Lab                                                                                  |
-| 24-01-12 (금) | [Lecture 05: Machine-Level Programming I: Basics]({{ site.url }}/posts/ics-lecture-05/)          |
-| 24-01-19 (금) | [Lecture 06: Machine-Level Programming II: Control]({{ site.url }}/posts/ics-lecture-06/)        |
-| 24-01-26 (금) | Lab 2: Bomb Lab                                                                                  |
-| 24-01-27 (토) | [Lecture 07: Machine-Level Programming III: Procedures]({{ site.url }}/posts/ics-lecture-07/)    |
-| 24-02-02 (금) | [Lecture 08: Machine-Level Programming IV: Data]({{ site.url }}/posts/ics-lecture-08/)           |
-| 24-02-07 (수) | Lab 3: Attack Lab                                                                                |
-| 24-02-08 (목) | [Lecture 09: Machine-Level Programming V: Advanced Topics]({{ site.url }}/posts/ics-lecture-09/) |
-| 24-02-15 (목) | [Lecture 10: Program Optimization]({{ site.url }}/posts/ics-lecture-10/)                         |
-| 24-02-20 (화) | [Lecture 11: The Memory Hierarchy]({{ site.url }}/posts/ics-lecture-11/)                         |
-| 24-02-29 (목) | [Lecture 12: Cache Memories]({{ site.url }}/posts/ics-lecture-12/)                               |
-| 24-03-07 (목) | Lab 4: Cache Lab                                                                                 |
-| 24-03-08 (금) | [Lecture 13: Linking]({{ site.url }}/posts/ics-lecture-13/)                                      |
-|               | Lecture 14: Exceptional Control Flow: Exceptions and Processes                                   |
-|               | Lecture 15: Exceptional Control Flow: Signals and Nonlocal Jumps                                 |
-|               | Lecture 16: System Level I/O                                                                     |
-|               | Lab 5: Shell Lab                                                                                 |
-|               | Lecture 17: Virtual Memory: Concepts                                                             |
-|               | Lecture 18: Virtual Memory: Systems                                                              |
-|               | Lecture 19: Dynamic Memory Allocation: Basic Concepts                                            |
-|               | Lecture 20: Dynamic Memory Allocation: Advanced Concepts                                         |
-|               | Lab 6: Malloc Lab                                                                                |
-|               | Lecture 21: Network Programming: Part I                                                          |
-|               | Lecture 22: Network Programming: Part II                                                         |
-|               | Lecture 23: Concurrent Programming                                                               |
-|               | Lecture 24: Synchronization: Basics                                                              |
-|               | Lab 7: Proxy Lab                                                                                 |
-|               | Lecture 25: Synchronization: Advanced                                                            |
-|               | Lecture 26: Thread-Level Parallelism                                                             |
-|               | Lecture 27: Future of Computing                                                                  |
+|     Date      | Content                                                                                                |
+| :-----------: | :----------------------------------------------------------------------------------------------------- |
+| 23-12-07 (목) | [Lecture 01: Course Overview]({{ site.url }}/posts/ics-lecture-01/)                                    |
+| 23-12-15 (금) | [Lecture 02: Bits, Bytes, and Integers]({{ site.url }}/posts/ics-lecture-02/)                          |
+| 23-12-20 (수) | [Lecture 03: Bits, Bytes, and Integers (cont.)]({{ site.url }}/posts/ics-lecture-03/)                  |
+| 24-01-05 (금) | [Lecture 04: Floating Point]({{ site.url }}/posts/ics-lecture-04/)                                     |
+| 24-01-10 (수) | Lab 1: Data Lab                                                                                        |
+| 24-01-12 (금) | [Lecture 05: Machine-Level Programming I: Basics]({{ site.url }}/posts/ics-lecture-05/)                |
+| 24-01-19 (금) | [Lecture 06: Machine-Level Programming II: Control]({{ site.url }}/posts/ics-lecture-06/)              |
+| 24-01-26 (금) | Lab 2: Bomb Lab                                                                                        |
+| 24-01-27 (토) | [Lecture 07: Machine-Level Programming III: Procedures]({{ site.url }}/posts/ics-lecture-07/)          |
+| 24-02-02 (금) | [Lecture 08: Machine-Level Programming IV: Data]({{ site.url }}/posts/ics-lecture-08/)                 |
+| 24-02-07 (수) | Lab 3: Attack Lab                                                                                      |
+| 24-02-08 (목) | [Lecture 09: Machine-Level Programming V: Advanced Topics]({{ site.url }}/posts/ics-lecture-09/)       |
+| 24-02-15 (목) | [Lecture 10: Program Optimization]({{ site.url }}/posts/ics-lecture-10/)                               |
+| 24-02-20 (화) | [Lecture 11: The Memory Hierarchy]({{ site.url }}/posts/ics-lecture-11/)                               |
+| 24-02-29 (목) | [Lecture 12: Cache Memories]({{ site.url }}/posts/ics-lecture-12/)                                     |
+| 24-03-07 (목) | Lab 4: Cache Lab                                                                                       |
+| 24-03-08 (금) | [Lecture 13: Linking]({{ site.url }}/posts/ics-lecture-13/)                                            |
+| 24-03-15 (금) | [Lecture 14: Exceptional Control Flow: Exceptions and Processes]({{ site.url }}/posts/ics-lecture-14/) |
+|               | Lecture 15: Exceptional Control Flow: Signals and Nonlocal Jumps                                       |
+|               | Lecture 16: System Level I/O                                                                           |
+|               | Lab 5: Shell Lab                                                                                       |
+|               | Lecture 17: Virtual Memory: Concepts                                                                   |
+|               | Lecture 18: Virtual Memory: Systems                                                                    |
+|               | Lecture 19: Dynamic Memory Allocation: Basic Concepts                                                  |
+|               | Lecture 20: Dynamic Memory Allocation: Advanced Concepts                                               |
+|               | Lab 6: Malloc Lab                                                                                      |
+|               | Lecture 21: Network Programming: Part I                                                                |
+|               | Lecture 22: Network Programming: Part II                                                               |
+|               | Lecture 23: Concurrent Programming                                                                     |
+|               | Lecture 24: Synchronization: Basics                                                                    |
+|               | Lab 7: Proxy Lab                                                                                       |
+|               | Lecture 25: Synchronization: Advanced                                                                  |
+|               | Lecture 26: Thread-Level Parallelism                                                                   |
+|               | Lecture 27: Future of Computing                                                                        |
