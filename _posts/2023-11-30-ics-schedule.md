@@ -33,7 +33,7 @@ tags: [cs-app]
 | 24-03-08 (금) | [Lecture 13: Linking]({{ site.url }}/posts/ics-lecture-13/)                                              |
 | 24-03-15 (금) | [Lecture 14: Exceptional Control Flow: Exceptions and Processes]({{ site.url }}/posts/ics-lecture-14/)   |
 | 24-03-18 (월) | [Lecture 15: Exceptional Control Flow: Signals and Nonlocal Jumps]({{ site.url }}/posts/ics-lecture-15/) |
-|               | Lecture 16: System Level I/O                                                                             |
+| 24-03-29 (금) | [Lecture 16: System Level I/O]({{ site.url }}/posts/ics-lecture-16/)                                     |
 |               | Lab 5: Shell Lab                                                                                         |
 |               | Lecture 17: Virtual Memory: Concepts                                                                     |
 |               | Lecture 18: Virtual Memory: Systems                                                                      |
