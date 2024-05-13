@@ -31,7 +31,7 @@ tags: [cs-app]
 | 24-03-18 (월) | [Lecture 15: Exceptional Control Flow: Signals and Nonlocal Jumps]({{ site.url }}/posts/ics-lecture-15/) |
 | 24-03-29 (금) | [Lecture 16: System Level I/O]({{ site.url }}/posts/ics-lecture-16/)                                     |
 | 24-04-05 (금) | [Lecture 17: Virtual Memory: Concepts]({{ site.url }}/posts/ics-lecture-17/)                             |
-|               | Lecture 18: Virtual Memory: Systems                                                                      |
+| 24-04-12 (금) | [Lecture 18: Virtual Memory: Systems]({{ site.url }}/posts/ics-lecture-18/)                              |
 |               | Lecture 19: Dynamic Memory Allocation: Basic Concepts                                                    |
 |               | Lecture 20: Dynamic Memory Allocation: Advanced Concepts                                                 |
 |               | Lecture 21: Network Programming: Part I                                                                  |
