@@ -32,7 +32,7 @@ tags: [cs-app]
 | 24-03-29 (금) | [Lecture 16: System Level I/O]({{ site.url }}/posts/ics-lecture-16/)                                     |
 | 24-04-05 (금) | [Lecture 17: Virtual Memory: Concepts]({{ site.url }}/posts/ics-lecture-17/)                             |
 | 24-04-12 (금) | [Lecture 18: Virtual Memory: Systems]({{ site.url }}/posts/ics-lecture-18/)                              |
-|               | Lecture 19: Dynamic Memory Allocation: Basic Concepts                                                    |
+| 24-04-19 (금) | [Lecture 19: Dynamic Memory Allocation: Basic Concepts]({{ site.url }}/posts/ics-lecture-19/)            |
 |               | Lecture 20: Dynamic Memory Allocation: Advanced Concepts                                                 |
 |               | Lecture 21: Network Programming: Part I                                                                  |
 |               | Lecture 22: Network Programming: Part II                                                                 |
