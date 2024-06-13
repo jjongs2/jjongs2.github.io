@@ -36,7 +36,7 @@ tags: [cs-app]
 | 24-04-26 (금) | [Lecture 20: Dynamic Memory Allocation: Advanced Concepts]({{ site.url }}/posts/ics-lecture-20/)         |
 | 24-05-03 (금) | [Lecture 21: Network Programming: Part I]({{ site.url }}/posts/ics-lecture-21/)                          |
 | 24-05-10 (금) | [Lecture 22: Network Programming: Part II]({{ site.url }}/posts/ics-lecture-22/)                         |
-|               | Lecture 23: Concurrent Programming                                                                       |
+| 24-05-16 (목) | [Lecture 23: Concurrent Programming]({{ site.url }}/posts/ics-lecture-23/)                               |
 |               | Lecture 24: Synchronization: Basics                                                                      |
 |               | Lecture 25: Synchronization: Advanced                                                                    |
 |               | Lecture 26: Thread-Level Parallelism                                                                     |
