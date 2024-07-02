@@ -1,5 +1,6 @@
 ---
 title: Schedule
+description: Introduction to Computer Systems [CS:APP]
 date: 2023-11-30 08:25:49 +0900
 categories: [컴퓨터 과학, 컴퓨터 구조]
 tags: [cs-app]
@@ -40,7 +41,6 @@ tags: [cs-app]
 | 24-05-24 (금) | [Lecture 24: Synchronization: Basics]({{ site.url }}/posts/ics-lecture-24/)                            |
 | 24-05-31 (금) | [Lecture 25: Synchronization: Advanced]({{ site.url }}/posts/ics-lecture-25/)                          |
 | 24-06-07 (금) | [Lecture 26: Thread-Level Parallelism]({{ site.url }}/posts/ics-lecture-26/)                           |
-|               | Lecture 27: Future of Computing                                                                        |
 |               | Lab 1: Data Lab                                                                                        |
 |               | Lab 2: Bomb Lab                                                                                        |
 |               | Lab 3: Attack Lab                                                                                      |
