@@ -41,10 +41,10 @@ tags: [cs-app]
 | 24-05-24 (금) | [Lecture 24: Synchronization: Basics]({{ site.url }}/posts/ics-lecture-24/)                            |
 | 24-05-31 (금) | [Lecture 25: Synchronization: Advanced]({{ site.url }}/posts/ics-lecture-25/)                          |
 | 24-06-07 (금) | [Lecture 26: Thread-Level Parallelism]({{ site.url }}/posts/ics-lecture-26/)                           |
-|               | Lab 1: Data Lab                                                                                        |
-|               | Lab 2: Bomb Lab                                                                                        |
-|               | Lab 3: Attack Lab                                                                                      |
-|               | Lab 4: Cache Lab                                                                                       |
-|               | Lab 5: Shell Lab                                                                                       |
-|               | Lab 6: Malloc Lab                                                                                      |
+| 24-06-17 (월) | [Lab 1: Data Lab]({{ site.github.url }}/csapp-labs/tree/main/01-data-lab)                              |
+| 24-06-20 (목) | [Lab 2: Bomb Lab]({{ site.github.url }}/csapp-labs/tree/main/02-bomb-lab)                              |
+| 24-06-24 (월) | [Lab 3: Attack Lab]({{ site.github.url }}/csapp-labs/tree/main/03-attack-lab)                          |
+| 24-06-27 (목) | [Lab 4: Cache Lab]({{ site.github.url }}/csapp-labs/tree/main/04-cache-lab)                            |
+|       -       | [Lab 5: Shell Lab]({{ site.github.url }}/csapp-labs)                                                   |
+| 24-07-05 (금) | [Lab 6: Malloc Lab]({{ site.github.url }}/csapp-labs/tree/main/06-malloc-lab)                          |
 |               | Lab 7: Proxy Lab                                                                                       |
