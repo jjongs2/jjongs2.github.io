@@ -30,7 +30,7 @@ panel:
 copyright:
   # Shown at the bottom of the post
   license:
-    template: 이 게시물은 저작자의 :LICENSE_NAME 라이선스를 따릅니다.
+    template: 이 글은 저작자의 :LICENSE_NAME 라이선스를 따릅니다.
     name: CC BY-SA 4.0
     link: https://creativecommons.org/licenses/by-sa/4.0/
 
