@@ -47,4 +47,4 @@ tags: [cs-app]
 | 24-06-27 (목) | [Lab 4: Cache Lab]({{ site.github.url }}/csapp-labs/tree/main/04-cache-lab)                            |
 |       -       | [Lab 5: Shell Lab]({{ site.github.url }}/csapp-labs)                                                   |
 | 24-07-05 (금) | [Lab 6: Malloc Lab]({{ site.github.url }}/csapp-labs/tree/main/06-malloc-lab)                          |
-|               | Lab 7: Proxy Lab                                                                                       |
+|       -       | [Lab 7: Proxy Lab]({{ site.github.url }}/csapp-labs)                                                   |
