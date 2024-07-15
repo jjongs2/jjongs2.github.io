@@ -2,7 +2,7 @@
 title: Schedule
 description: Introduction to Computer Systems [CS:APP]
 date: 2023-11-30 08:25:49 +0900
-categories: [컴퓨터 과학, 컴퓨터 구조]
+categories: [Computer Science, Computer Systems]
 tags: [cs-app]
 ---
 
