@@ -14,9 +14,9 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 고양이 볼따구 # the main title
+title: 고볼 # the main title
 
-tagline: 애옹 # it will display as the sub-title
+tagline: 고양이 볼따구 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   애옹
@@ -89,7 +89,7 @@ theme_mode: # [light | dark]
 # img_cdn: https://cdn.jsdelivr.net/gh/jjongs2/jjongs2.github.io@master
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/assets/img/avatar.jpg"
+avatar: "/assets/img/avatar.gif"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
