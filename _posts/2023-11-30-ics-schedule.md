@@ -4,6 +4,7 @@ description: Introduction to Computer Systems [CS:APP]
 date: 2023-11-30 08:25:49 +0900
 categories: [Computer Science, Computer Systems]
 tags: [cs-app]
+pin: true
 ---
 
 > Carnegie Mellon University, School of Computer Science,  
