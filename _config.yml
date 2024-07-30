@@ -86,10 +86,10 @@ theme_mode: # [light | dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-# img_cdn: https://cdn.jsdelivr.net/gh/jjongs2/jjongs2.github.io@master
+img_cdn: https://dydi59svggub9.cloudfront.net
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/assets/img/avatar.gif"
+avatar: "/commons/avatar.gif"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
