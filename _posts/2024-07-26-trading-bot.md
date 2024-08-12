@@ -289,5 +289,5 @@ _드가자~[^mongle]_
 
 ### Footnote
 
-[^mongle]: [몽글이. Facebook. [Online].](https://www.facebook.com/monglebabo/posts/4133941813311630/)
+[^mongle]: [몽글이. Facebook. [Online].](https://www.facebook.com/monglebabo)
 [^study]: [J. Wu, X. Zhang, F. Huang, H. Zhou, and R. Chandra, "Review of deep learning models for crypto price prediction: implementation and evaluation," 2024, arXiv:2405.11431. [Online].](https://arxiv.org/abs/2405.11431)
