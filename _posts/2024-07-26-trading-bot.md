@@ -64,7 +64,7 @@ flowchart TB
 이 프로젝트에서는 다변량 데이터를 이용한 Conv-LSTM 모델이 가장 높은 예측 정확도를 보인다는 연구 결과를 참고했다.[^study]
 
 > 해당 자료는 공식적인 피어 리뷰를 거치지 않은 preprint 논문이므로, 보다 신뢰할 만한 자료를 원한다면 정식 학술지에 게재된 연구를 참고하는 것이 좋다.
-> {: .prompt-info }
+{: .prompt-info }
 
 모델 생성을 위해 [GitHub](https://github.com/sydney-machine-learning/deeplearning-crypto)[^study]에 공개되어 있는 소스 코드(`main.py`)에서 필요한 부분을 수정하여 사용했다. 나중에 새로운 입력 데이터에 대해 학습 데이터와 동일한 전처리를 수행해야 하므로, 학습 데이터 전처리에 사용된 스케일러도 저장해 두어야 한다.
 
@@ -189,7 +189,7 @@ flowchart TB
 - `START_TIME: '2019-09-13T04:00:00Z'` (바이낸스 선물 출시일)
 
 > 거래소 데이터 접근을 위해 [CCXT](https://github.com/ccxt/ccxt) 라이브러리를 사용했으며, 가능한 설정 값들은 [CCXT docs](https://docs.ccxt.com/#/)에서 확인할 수 있다.
-> {: .prompt-info }
+{: .prompt-info }
 
 `main.py`를 `fetcher.py`와 같은 디렉터리에 위치시키고, 필요한 모듈을 설치한 뒤 코드를 실행하자.
 
