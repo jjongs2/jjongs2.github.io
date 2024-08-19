@@ -4,13 +4,12 @@ description: Introduction to Computer Systems [CS:APP]
 date: 2023-11-30 08:25:49 +0900
 categories: [Computer Science, Computer Systems]
 tags: [cs-app]
-pin: true
 ---
 
 > Carnegie Mellon University, School of Computer Science,  
 > [Introduction to Computer Systems (ICS)](https://www.cs.cmu.edu/afs/cs/academic/class/15213-s18/www/)
 >
-> [Videos](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22) \| [Assignments](https://csapp.cs.cmu.edu/3e/labs.html)
+> [Videos](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22) \| [Labs](https://csapp.cs.cmu.edu/3e/labs.html)
 
 <br>
 
