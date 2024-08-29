@@ -1,9 +1,11 @@
 ---
 title: Schedule
-description: Introduction to Computer Systems [CS:APP]
+description: "Computer Systems: A Programmer's Perspective (CS:APP)"
 date: 2023-11-30 08:25:49 +0900
 categories: [Computer Science, Computer Systems]
 tags: [cs-app]
+image:
+  path: https://csapp.cs.cmu.edu/3e/images/csapp3e-cover.jpg
 ---
 
 > Carnegie Mellon University, School of Computer Science,  
