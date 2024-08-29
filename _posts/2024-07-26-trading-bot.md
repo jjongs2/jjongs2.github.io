@@ -204,11 +204,11 @@ _results.xlsx_
 
 ### Model Evaluation
 
-![current vs predicted](/posts/20240726/current-vs-predicted.png){: w="600" }
+![Current vs Predicted](/posts/20240726/current-vs-predicted.png){: w="600" }
 
 현재 가격과 예측 가격을 비교해 보면, 두 그래프가 얼추 포개어질 정도로 별다른 차이가 없어 보인다. Loss를 최소화하는 방향으로 모델을 학습시키고 봤더니, '다음 가격도 현재와 비슷할 것'이라는 결론을 내리는 것이다. 예측 가격은 다음 시점의 가격을 예측한 것이므로, 두 그래프의 시점을 일치시켜 보면...
 
-![actual vs predicted](/posts/20240726/actual-vs-predicted.png){: w="600" }
+![Actual vs Predicted](/posts/20240726/actual-vs-predicted.png){: w="600" }
 _엥? 이거 완전 이평선 아니냐?_
 
 이처럼 후행성 지표나 다름없는 예측 결과가 나타나게 된다. 각종 연구 자료에서 '우리 모델의 예측 오차가 이만큼 작다'고 결론짓는 모습을 볼 수 있는데, 위와 같은 time-lag 현상으로 인해 오차가 작다고 해서 반드시 실용적인 모델인지는 알 수 없다. 이러한 문제를 해결하기 위해, 금융 데이터를 단순 시계열로 취급하는 데서 그치지 않고 시세 형성에 영향을 미치는 다양한 외부 요인을 고려하기도 한다. 예를 들면, 뉴스나 SNS 같은 대중 매체를 감성 분석하여 그 데이터를 모델 학습에 활용하는 것이다.
