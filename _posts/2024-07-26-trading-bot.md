@@ -13,7 +13,7 @@ mermaid: true
 
 암호화폐 시장은 2009년 비트코인의 탄생 이후, 급격한 성장을 거듭하며 금융계의 주요 화두로 자리잡았다. 2021년 코인 열풍이 불던 당시, 나 또한 여느 불나방처럼 시장에 날아들었지만 자이로드롭 뺨치는 가격 변동성에 정신없이 휘둘리기만 하다가 결국 뛰쳐나왔다.
 
-![추가 매수 가즈아](https://scontent-gmp1-1.xx.fbcdn.net/v/t1.6435-9/169990088_4133941773311634_7520203243972459665_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=7b2446&_nc_ohc=qC08m9N1dd8Q7kNvgEQ0YSc&_nc_ht=scontent-gmp1-1.xx&oh=00_AYAB9lpHCGRkJM2j25qW7fNTOv0iec_TJ0DQOxVq4wiPOQ&oe=66E1871E){: w="300" }
+![추가 매수 가즈아](/posts/20240726/buy-the-dip.jpg){: w="300" .border }
 _뉴비에게는 너무 가혹한 장이었다..[^mongle]_
 
 그렇게 관심을 끄고 지내던 중, 올해 초 흥미로운 소식을 접하게 되었다. 미국 증권거래위원회(SEC)가 비트코인 ETF를 승인했다는 것이었다. 게다가 마침 4년마다 찾아오는 비트코인 반감기까지 다가오고 있었다. 이러한 소식들에 힘입어, 비트코인은 다시금 내 머릿속을 비집고 들어왔다. 그리고 문득, 대학 시절 딥러닝 강의에서 수행했던 '암호화폐 시계열 예측' 프로젝트가 떠올랐고, 이를 실제 거래에 적용할 수 있는 자동화 시스템으로 발전시키기로 결심했다.
@@ -199,16 +199,16 @@ flowchart TB
 
 `round`개의 모델이 생성되고, 각 모델의 오차 값이 `results.xlsx` 파일에 기록된다. 입력 데이터가 동일하므로, 스케일러는 하나만 생성된다.
 
-![results.xlsx](/posts/20240726/errors.png){: w="600" }
+![results.xlsx](/posts/20240726/errors.png){: w="600" .border }
 _results.xlsx_
 
 ### Model Evaluation
 
-![Current vs Predicted](/posts/20240726/current-vs-predicted.png){: w="600" }
+![Current vs Predicted](/posts/20240726/current-vs-predicted.png){: w="600" .border }
 
 현재 가격과 예측 가격을 비교해 보면, 두 그래프가 얼추 포개어질 정도로 별다른 차이가 없어 보인다. Loss를 최소화하는 방향으로 모델을 학습시키고 봤더니, '다음 가격도 현재와 비슷할 것'이라는 결론을 내리는 것이다. 예측 가격은 다음 시점의 가격을 예측한 것이므로, 두 그래프의 시점을 일치시켜 보면...
 
-![Actual vs Predicted](/posts/20240726/actual-vs-predicted.png){: w="600" }
+![Actual vs Predicted](/posts/20240726/actual-vs-predicted.png){: w="600" .border }
 _엥? 이거 완전 이평선 아니냐?_
 
 이처럼 후행성 지표나 다름없는 예측 결과가 나타나게 된다. 각종 연구 자료에서 '우리 모델의 예측 오차가 이만큼 작다'고 결론짓는 모습을 볼 수 있는데, 위와 같은 time-lag 현상으로 인해 오차가 작다고 해서 반드시 실용적인 모델인지는 알 수 없다. 이러한 문제를 해결하기 위해, 금융 데이터를 단순 시계열로 취급하는 데서 그치지 않고 시세 형성에 영향을 미치는 다양한 외부 요인을 고려하기도 한다. 예를 들면, 뉴스나 SNS 같은 대중 매체를 감성 분석하여 그 데이터를 모델 학습에 활용하는 것이다.
@@ -276,7 +276,7 @@ flowchart TD
 
 백테스팅을 마쳤으면, 이제 실전 투자에 나설 때이다.
 
-![자 드가자~](https://scontent-gmp1-1.xx.fbcdn.net/v/t1.6435-9/160197245_4051574601548352_2303320013930543272_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=7b2446&_nc_ohc=6hYFlkvAhysQ7kNvgFvE9lK&_nc_ht=scontent-gmp1-1.xx&oh=00_AYAHdJBZOghq9RfBKdLZF8b8n7ccI7VUvNIm5N0L_c6rIw&oe=66E18E73){: w="300" }
+![자 드가자~](/posts/20240726/let's-go.jpg){: w="300" }
 _드가자~[^mongle]_
 
 백테스팅 결과를 근거로 하여 매매 전략을 세우는 것은, 미래 시장이 과거와 유사한 패턴을 보일 것이라는 가정에 기초한다는 사실을 명심하자. 즉, 실전에서는 백테스팅 결과와 다른 성적이 나올 수 있으므로, 재미로 굴릴 만한 정도의 시드만 투입하는 것이 좋다.
