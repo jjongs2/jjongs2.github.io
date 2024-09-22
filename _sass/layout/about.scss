@@ -1,5 +1,7 @@
+@use 'sass:color';
+
 $primary-color: #3ed4be;
-$primary-color-hover: scale-color($primary-color, $lightness: 32%);
+$primary-color-hover: color.scale($primary-color, $lightness: 32%);
 
 .timeline {
   line-height: 1.4em;
@@ -43,7 +45,7 @@ $primary-color-hover: scale-color($primary-color, $lightness: 32%);
   left: 0;
   width: 15px;
 
-  &:before {
+  &::before {
     background: $primary-color;
     border: 3px solid transparent;
     border-radius: 100%;
@@ -57,7 +59,7 @@ $primary-color-hover: scale-color($primary-color, $lightness: 32%);
     transition: background 0.3s ease-in-out, border 0.3s ease-in-out;
   }
 
-  &:after {
+  &::after {
     content: '';
     width: 3px;
     background: #ccd5db;
@@ -68,12 +70,12 @@ $primary-color-hover: scale-color($primary-color, $lightness: 32%);
     left: 6px;
   }
 
-  .timeline-item:last-child &:after {
+  .timeline-item:last-child &::after {
     content: none;
   }
 }
 
-.timeline-item:not(.period):hover .timeline-marker:before {
+.timeline-item:not(.period):hover .timeline-marker::before {
   background: transparent;
   border: 3px solid $primary-color;
 }
@@ -94,7 +96,7 @@ $primary-color-hover: scale-color($primary-color, $lightness: 32%);
   }
 
   .timeline-marker {
-    &:before {
+    &::before {
       background: transparent;
       content: '';
       width: 15px;
@@ -108,7 +110,7 @@ $primary-color-hover: scale-color($primary-color, $lightness: 32%);
       border-bottom: 3px solid #ccd5db;
     }
 
-    &:after {
+    &::after {
       content: '';
       height: 32px;
       top: auto;
