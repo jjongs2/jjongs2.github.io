@@ -47,6 +47,6 @@ image:
 | 24-06-20 (목) | [Lab 2: Bomb Lab]({{ site.github.url }}/csapp-labs/tree/main/02-bomb-lab)                              |
 | 24-06-24 (월) | [Lab 3: Attack Lab]({{ site.github.url }}/csapp-labs/tree/main/03-attack-lab)                          |
 | 24-06-27 (목) | [Lab 4: Cache Lab]({{ site.github.url }}/csapp-labs/tree/main/04-cache-lab)                            |
-|       -       | [Lab 5: Shell Lab]({{ site.github.url }}/csapp-labs)                                                   |
+|       -       | Lab 5: Shell Lab                                                                                       |
 | 24-07-05 (금) | [Lab 6: Malloc Lab]({{ site.github.url }}/csapp-labs/tree/main/06-malloc-lab)                          |
-|       -       | [Lab 7: Proxy Lab]({{ site.github.url }}/csapp-labs)                                                   |
+|       -       | Lab 7: Proxy Lab                                                                                       |

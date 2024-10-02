@@ -116,6 +116,8 @@ image:
    - 잘못된 MAC 주소로 인해, 해당 IP 주소로의 **패킷이 올바른 목적지에 도달하지 못한다.**
    - 엉뚱한 MAC 주소로 트래픽이 리다이렉션되어 **정보가 유출되거나 조작될 수 있다.**
 
+   <br>
+
 2. What is the default amount of time that an entry remains in your ARP cache before being removed? You can determine this empirically (by monitoring the cache contents) or by looking this up in your operating system documentation. Indicate how/where you determined this value.
    - 60초 (Linux)
 
