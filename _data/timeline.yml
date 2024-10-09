@@ -1,0 +1,39 @@
+- year: null
+  events:
+    - date: 22년 7월 - 23년 6월
+      title: 42cursus
+      url: https://github.com/jjongs2/42cursus
+      description: 42서울 교육 과정 중 진행한 프로젝트
+
+- year: 2023
+  events:
+    - date: 23년 8월 - 23년 9월
+      title: 42Check-in
+      url: https://github.com/42Check-in
+      description: 42서울 소프트웨어 경진대회 참가
+
+    - date: 23년 9월 - 24년 2월
+      title: algorithm-study
+      url: https://github.com/jjongs2/algorithm-study
+      description: 라이(kks227)님 블로그 기반 알고리즘 스터디
+
+- year: 2024
+  events:
+    - date: 24년 2월
+      title: 대학 졸업
+      description: 한양대학교 화학공학과
+
+    - date: 24년 6월 - 현재
+      title: leetcode
+      url: https://github.com/jjongs2/leetcode
+      description: LeetCode 데일리 챌린지
+
+    - date: 24년 7월
+      title: csapp-labs
+      url: https://github.com/jjongs2/csapp-labs
+      description: CS:APP 실습 과제
+
+    - date: 24년 7월 - 24년 8월
+      title: trading-bot
+      url: https://github.com/jjongs2/trading-bot
+      description: 딥러닝 모델로 가격을 예측하는 서버리스 암호화폐 트레이딩 봇
