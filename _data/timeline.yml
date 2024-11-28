@@ -37,3 +37,8 @@
       title: trading-bot
       url: https://github.com/jjongs2/trading-bot
       description: 딥러닝 모델로 가격을 예측하는 서버리스 암호화폐 트레이딩 봇
+
+    - date: 24년 10월
+      title: ostep-projects
+      url: https://github.com/jjongs2/ostep-projects
+      description: Xv6 커널 실습 과제
