@@ -2,10 +2,10 @@
 title: Introduction
 description: AURIX™ TC275 ShieldBuddy
 date: 2025-02-22 10:15:53 +0900
-categories: [Computer Science, Embedded Systems]
+categories: [Embedded Systems, Development Boards]
 tags: [tc275]
 image:
-  path: https://www.infineon.com/export/sites/default/media/products/power_semiconductors_for_automotive/PS_Automotiv_Content/Hitex-shieldbuddytc275.jpg_1715417000.jpg
+  path: https://assets.infineon.com/is/image/infineon/hitex-shieldbuddytc275.jpeg
 ---
 
 ## TC275 ShieldBuddy
@@ -14,7 +14,7 @@ image:
 
 Hitex사에서 제작한 개발 보드로, Infineon사의 AURIX™ TC275 마이크로컨트롤러를 탑재하고 있다. Arduino Due/Mega2560과 동일한 폼 팩터를 사용하여 300개 이상의 Arduino 실드와 호환되며, 이를 통해 다양한 센서, 액추에이터, 통신 모듈 등을 연결하여 시스템을 손쉽게 확장할 수 있다.
 
-![](https://www.infineon.com/export/sites/default/media/products/power_semiconductors_for_automotive/PS_Automotiv_Content/Hitex-shieldbuddytc275.jpg_1715417000.jpg){: .border w="300" }
+![](https://assets.infineon.com/is/image/infineon/hitex-shieldbuddytc275.jpeg){: .border w="300" }
 _TC275 ShieldBuddy[^tc275-sb]_
 
 ### AURIX™ TC275
@@ -28,7 +28,7 @@ _TC275 internal layout[^tc275]_
 3개의 코어는 공유 버스에 연결되어 있으며, 각자 로컬 RAM을 가지고 플래시 메모리를 공유한다. 총 4MB의 플래시 메모리와 472KB의 SRAM을 제공하며, 두 메모리 모두 ECC(Error Correction Code) 기능을 지원하여 높은 데이터 무결성이 요구되는 애플리케이션에도 적합하다. 또한, 디버그 인터페이스가 내장되어 있어 컴퓨터에 직접 연결하여 프로그래밍 및 디버깅을 수행할 수 있으며, 각종 통신 인터페이스를 포함하여 다양한 모듈을 지원한다.
 
 > 자동차 기능 안전 표준인 ISO 26262의 ASIL-D 등급까지 지원하며, AUTOSAR V3.2 및 V4.x 표준과 호환되도록 설계되어 자동차 산업의 시스템 개발에 특화되어 있다.
-{: .prompt-info }
+> {: .prompt-info }
 
 <br>
 
@@ -47,7 +47,7 @@ _TC275 internal layout[^tc275]_
 |  [**PWM**]({{ site.url }}/posts/tc275-pwm/)  | ADC 값에 따라 PWM 신호를 생성하여 LED 밝기 조절 |
 
 > [GitHub 리포지토리](https://github.com/jjongs2/tc275) 참고
-{: .prompt-info }
+> {: .prompt-info }
 
 ### Prerequisites
 
