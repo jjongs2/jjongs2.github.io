@@ -2,10 +2,11 @@
 title: Introduction
 description: AURIX™ TC275 ShieldBuddy
 date: 2025-02-22 10:15:53 +0900
-categories: [Embedded Systems, Development Boards]
+categories: [Automotive Embedded Systems, Microcontroller]
 tags: [tc275]
 image:
   path: https://assets.infineon.com/is/image/infineon/hitex-shieldbuddytc275.jpeg
+published: false
 ---
 
 ## TC275 ShieldBuddy

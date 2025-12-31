@@ -1,8 +1,8 @@
 ---
 title: "[RTOS] Lecture 2"
-description: "Real-Time Operating Systems"
-date: 2025-04-08 08:46:53 +0900
-categories: [Embedded Systems, Real-Time Operating Systems]
+description: Real-Time Operating Systems
+date: 2025-04-14 08:46:53 +0900
+categories: [Automotive Embedded Systems, Real-Time Operating Systems]
 math: true
 ---
 
