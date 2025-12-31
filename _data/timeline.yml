@@ -3,13 +3,13 @@
     - date: 22년 7월 - 23년 7월
       title: 42서울
       url: https://github.com/jjongs2/42cursus
-      description: 동료 학습 및 프로젝트 기반의 SW 교육 과정
+      description: 동료 학습 및 프로젝트 기반의 SW 교육과정
 
 - year: 2023
   events:
     - date: 23년 8월 - 9월
       title: 42Check-in
-      url: https://github.com/42Check-in
+      url: https://drive.google.com/file/d/1jmZWyIaccvXNrELPTrFPrPbGd-UoAuYX/view?usp=sharing
       description: 42서울 소프트웨어 경진대회
 
     - date: 23년 9월 - 24년 2월
@@ -38,10 +38,6 @@
       url: https://github.com/jjongs2/trading-bot
       description: 딥러닝 모델로 가격을 예측하는 서버리스 암호화폐 트레이딩 봇
 
-    - date: 24년 9월
-      title: PCCP (프로그래머스 인증시험)
-      description: Python Lv.5
-
     - date: 24년 10월
       title: ostep-projects
       url: https://github.com/jjongs2/ostep-projects
@@ -49,15 +45,19 @@
 
     - date: 24년 12월 - 25년 6월
       title: 현대오토에버 모빌리티 임베디드 SW 스쿨
-      description: 차량용 임베디드 SW 개발 교육 과정
+      description: 차량용 임베디드 SW 개발 교육과정
 
 - year: 2025
   events:
     - date: 25년 4월 - 5월
       title: 스마트 선루프 시스템
-      url: https://github.com/Yun-jihawan/smartSunroof
+      url: https://drive.google.com/file/d/10Rs3tXJRpgVvqxJipYVTk339kotBlmFn/view?usp=sharing
       description: 차량용 임베디드 SW 개발 프로젝트
 
     - date: 25년 5월
       title: 서울청 코딩대회, HIT! K-Job STAR
       description: 최우수상
+
+    - date: 25년 9월
+      title: PCCP (프로그래머스 인증시험)
+      description: Python Lv.5
