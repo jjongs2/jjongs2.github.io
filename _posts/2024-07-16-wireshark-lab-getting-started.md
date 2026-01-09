@@ -2,7 +2,7 @@
 title: "Wireshark Lab: Getting Started v8.1"
 description: "Computer Networking: A Top-Down Approach"
 date: 2024-07-16 12:25:15 +0900
-categories: [Computer Science, Computer Networking]
+categories: [Computer Science, Computer Networks]
 tags: [wireshark]
 math: true
 image:

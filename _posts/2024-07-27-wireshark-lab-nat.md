@@ -2,7 +2,7 @@
 title: "Wireshark Lab: NAT v8.1"
 description: "Computer Networking: A Top-Down Approach"
 date: 2024-07-27 09:16:22 +0900
-categories: [Computer Science, Computer Networking]
+categories: [Computer Science, Computer Networks]
 tags: [wireshark]
 image:
   path: https://live.staticflickr.com/2688/4021711687_b4f073cfa3_z.jpg

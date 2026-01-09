@@ -2,7 +2,7 @@
 title: Schedule
 description: "Computer Networking: A Top-Down Approach"
 date: 2024-07-12 08:53:33 +0900
-categories: [Computer Science, Computer Networking]
+categories: [Computer Science, Computer Networks]
 image:
   path: https://m.media-amazon.com/images/I/71XKoLJSZ1L._SL1500_.jpg
 ---

@@ -2,7 +2,7 @@
 title: "Wireshark Lab: ICMP v8.0"
 description: "Computer Networking: A Top-Down Approach"
 date: 2024-07-30 13:00:40 +0900
-categories: [Computer Science, Computer Networking]
+categories: [Computer Science, Computer Networks]
 tags: [wireshark]
 image:
   path: https://live.staticflickr.com/2688/4021711687_b4f073cfa3_z.jpg

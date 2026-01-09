@@ -38,7 +38,7 @@ ISO 26262의 핵심 목적은 "E/E 시스템의 오작동(malfunctioning behavio
 
 총 12개의 파트로 구성되어 있으며, 주요 파트는 V-모델 프로세스에 따라 유기적으로 연결되어 있다. 이는 안전이 특정 개발 단계에서 한 번 검증하고 끝나는 것이 아니라, **제품의 탄생부터 소멸까지 지속적으로 관리되어야 함**을 시사한다.
 
-![](/posts/20250203/parts-of-iso-26262.jpg){: .border w="650" }
+![](/posts/20250217/parts-of-iso-26262.jpg){: .border w="650" }
 _Parts of ISO 26262:2018 (2nd edition)_
 
 <br>
@@ -87,7 +87,7 @@ HARA는 **해저드를 식별하고 위험을 평가하여 안전 목표(Safety 
 
 위 세 가지 요소의 조합을 통해 ASIL 등급(QM, A, B, C, D)이 결정된다. ASIL D는 가장 높은 수준의 위험을 의미하며, 가장 엄격한 안전 요구사항이 적용된다.
 
-![Determination of ASIL](/posts/20250203/asil-matrix.png)
+![Determination of ASIL](/posts/20250217/asil-matrix.png)
 
 > 기능 안전 개념(FSC) 적용 사례: [전기차의 고전압 배터리 관리 시스템(BMS)](https://www.irejournals.com/formatedpaper/1708063.pdf)[^fsc-bms]
 {: .prompt-info }
