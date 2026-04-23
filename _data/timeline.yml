@@ -61,3 +61,10 @@
     - date: 25년 9월
       title: PCCP (프로그래머스 인증시험)
       description: Python Lv.5
+
+- year: 2026
+  events:
+    - date: 26년 4월
+      title: AE Wiki
+      url: https://jjongs2.github.io/ae-wiki/
+      description: 차량용 임베디드 시스템 지식 아카이브
